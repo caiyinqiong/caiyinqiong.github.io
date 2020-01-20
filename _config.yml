@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: yinqiongcai@gmail.com
 description: "Shape your life, shape yourself."
 url: "http://caiyinqiong.github.io"          # your host, for absolute URL
-# github_repo: "https://github.com/caiyinqiong" # you code repository
+github_repo: "https://github.com/caiyinqiong" # you code repository
 
 # Sidebar settings   侧边栏
 sidebar: true                           # whether or not using Sidebar.
@@ -17,10 +17,10 @@ sidebar-avatar: /img/cyq.jpg      # use absolute URL, seeing it's used in both `
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
-# permalink: pretty
-# paginate: 10
-# exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-# anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
 
