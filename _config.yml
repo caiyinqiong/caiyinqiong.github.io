@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: yinqiongcai@gmail.com
 description: "Shape your life, shape yourself."
 url: "http://caiyinqiong.github.io"          # your host, for absolute URL
-github_repo: "https://github.com/caiyinqiong" # you code repository
+# github_repo: "https://github.com/caiyinqiong" # you code repository
 
 # Sidebar settings   侧边栏
 # sidebar: true                           # whether or not using Sidebar.
@@ -44,7 +44,7 @@ kramdown:
 
 
 # Featured Tags
-featured-tags: true                     # 是否使用首页标签
+featured-tags: false                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
