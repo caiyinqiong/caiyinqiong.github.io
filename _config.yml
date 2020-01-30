@@ -9,7 +9,7 @@ github_repo: "https://github.com/caiyinqiong" # you code repository
 
 # Sidebar settings   侧边栏
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Shape your life, shape yourself!"
+sidebar-about-description: "Shape your life, shape yourself."
 sidebar-avatar: /img/cyq.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
