@@ -43,3 +43,7 @@ https://blog.csdn.net/m0_38055352/article/details/92064188
   然后在服务器端执行：tensorboard --logdir="/path/to/log-directory“
 
   本地打开浏览器：http://127.0.0.1:16006/
+  
+- export https_proxy=http://10.61.3.141:8888
+  export http_proxy=http://10.61.3.141:8888
+
